@@ -2,7 +2,6 @@
 
 ### 👩‍💻 Developer: Anjali Gupta  
 ### 🏫 CMR Institute of Technology, Bengaluru  
-### 📅 Submission Date: 3rd November 2025  
 
 ---
 
